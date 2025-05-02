@@ -7,14 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhuoyu Xiao (肖卓宇), a Ph.D. student in Operations Research at University of Michigan. I am fortunate to be advised by Professor [Uday V. Shanbhag](https://udaybag2.github.io/). My research interests focuses on designing, developing and analyzing algorithms for solving nonsmooth optimization, nonconvex optimization, and stochastic programming, with a strong focus on nonconvex games.
+I am Zhuoyu Xiao (肖卓宇), a Ph.D. student in Operations Research at [University of Michigan](https://umich.edu/), where I am fortunate to be advised by Professor [Uday V. Shanbhag](https://udaybag2.github.io/). Prior to that, I received my B.S. in Mathematics from [Jinan University](https://english.jnu.edu.cn/) in 2020, a M.Phil. in Mathematics from [University of Victoria](https://www.uvic.ca/) in 2022, where I was fortunate to be advised by Professor [Jane J. Ye](https://web.uvic.ca/~janeye/).
 
-Education
+Research Interests
 ======
-- Ph.D. in Operations Research, University of Michigan, USA, 2024 – Present
-- Ph.D. in Operations Research, Pennsylvania State University, USA, 2022 – 2024 (Transferred to UMich)
-- M.Phil. in Mathematics, University of Victoria, Canada, 2020 - 2022
-- B.S. in Mathematics, Jinan University, China, 2016 - 2020
+- 
+- 
+- 
 
 Contact Info
 ======
