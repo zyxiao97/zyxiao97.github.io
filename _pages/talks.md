@@ -17,7 +17,7 @@ Title: **Computing Equilibria in Stochastic Nonconvex and Nonmonotone Games via 
 
 ## SIAM Conference on Optimization (2023)
 Seattle, United States  
-Title: **Surrogation-Based Best-Response Schemes for Computation of Quasi-Nash Equilibrium under Uncertainty**
+Title: **Surrogation-Based Best-Response Schemes for Computation of Quasi-Nash Equilibria under Uncertainty**
 
 <br>
 
