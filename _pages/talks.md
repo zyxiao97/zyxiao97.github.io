@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-## (*Invited*) Mini-Symposium Talk: International Conference on Continuous Optimization (2025) 
+## (*Invited*) International Conference on Continuous Optimization (2025) 
 "Stochastic Best-Response and Gradient-Response Schemes for Solving Nonconvex Games under Uncertainty", Los Angeles, United States.
 (Invited by Prof. Gesualdo Scutari and Prof. Angelia Nedich)
 
