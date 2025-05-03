@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "zhuoyuxiao.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhuoyu Xiao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PHD student @ UMich"
   location         : "Ann Arbor, USA"
   employer         : "University of Michigan"
   uri              : # URL
