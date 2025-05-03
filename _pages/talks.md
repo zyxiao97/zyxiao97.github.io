@@ -19,6 +19,7 @@ author_profile: true
 **Seattle, United States**  
 "Surrogation-based Best-Response Schemes for Computation of Quasi-Nash Equilibrium under Uncertainty"
 
+<br>
 
 Poster Presentations
 ======
