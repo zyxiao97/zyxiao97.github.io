@@ -5,5 +5,5 @@ permalink: /awards/
 author_profile: true
 ---
 
-- Award 1
-- Award 2
+- Graduate Student Travel Grant (Penn State)
+- Graduate Student Travel Grant (UVic)
