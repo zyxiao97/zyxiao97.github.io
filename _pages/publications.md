@@ -7,7 +7,7 @@ author_profile: true
 
 Journal Publications
 ======
-1. Optimality Conditions and Constraint Qualifications for Cardinality Constrained Optimization Problems
+1. Zhuoyu and Jane J. Ye. Optimality Conditions and Constraint Qualifications for Cardinality Constrained Optimization Problems. **Numerical Algebra, Control and Optimization**, (14) 2024 614--635.
 
 <br>
 
