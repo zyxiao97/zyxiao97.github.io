@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+minimal_mistakes_skin    : "default"
 title                    : "Zhuoyu Xiao"
 title_separator          : "-"
 name                     : &name "Zhuoyu Xiao"
