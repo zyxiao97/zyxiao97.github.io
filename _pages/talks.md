@@ -12,7 +12,7 @@ Title: **Stochastic Best-Response and Gradient-Response Schemes for Solving Nonc
 
 ## (Invited) International Symposium on Mathematical Programming (2024)
 Montreal, Canada  
-Title: **Computing Equilibria in Stochastic Nonconvex and Non-monotone Games via Gradient-Response Schemes**  
+Title: **Computing Equilibria in Stochastic Nonconvex and Nonmonotone Games via Gradient-Response Schemes**  
 (Invited by Prof. Patrick Mehlitz)
 
 ## SIAM Conference on Optimization (2023)
@@ -30,8 +30,8 @@ Title: **Computing Stochastic Quasi-Nash Equilibria via Gradient-Response Scheme
 
 ## Midwest Optimization & Statistical Learning Conference (2025)
 Evanston, United States  
-Title: **Computing Equilibria in Stochastic Nonconvex and Non-monotone Games via Gradient-Response Schemes**
+Title: **Computing Equilibria in Stochastic Nonconvex and Nonmonotone Games via Gradient-Response Schemes**
 
 ## Cornell ORIE Young Researchers Workshop (2024)
 Ithaca, United States  
-Title: **Computing Equilibria in Stochastic Nonconvex and Non-monotone Games via Gradient-Response Schemes**
+Title: **Computing Equilibria in Stochastic Nonconvex and Nonmonotone Games via Gradient-Response Schemes**
