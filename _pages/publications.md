@@ -13,10 +13,7 @@ Journal Publications
 
 Conference and Workshop Publications
 ======
-
-## The 7th Annual Learning for Dynamics & Control Conference (2025)
-Ann Arbor, United States  
-Title: **Computing Stochastic Quasi-Nash Equilibria via Gradient-Response Schemes**
+1. **Zhuoyu Xiao** and Uday V. Shanbhag. *Computing Quasi-Nash Equilibria via Gradient-Response Schemes*. **The 7th Annual Learning for Dynamics & Control Conference**, forthcoming.
 
 <br>
 
