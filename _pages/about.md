@@ -14,7 +14,7 @@ Before transferring to UMich with my advisor, I spent two years at [The Penn Sta
 
 Research Interests
 ======
-My research interests focus on the development and analysis of algorithms for solving optimization problems complicated by nonconvexity, nonsmoothness, and stochasticity, with a strong focus on nonconvex games. The techniques I use draw from a variety of fields including probability theory, modern optimization, variational analysis, and variational inequalities. In my research, I frequently use the following monographs:
+My research interests focus on the development and analysis of algorithms for solving optimization problems complicated by nonconvexity, nonsmoothness, and stochasticity, with a strong focus on nonconvex games during my PhD's studies. The techniques I use draw from a variety of fields including probability theory, modern optimization, variational analysis, and variational inequalities. In my research, I frequently use the following monographs:
 
 1. [Convex Analysis and Nonlinear Optimization](https://link.springer.com/book/10.1007/978-0-387-31256-9) (Borwein and Lewis).
 2. [First-Order Methods in Optimization](https://epubs.siam.org/doi/book/10.1137/1.9781611974997) (Beck).
