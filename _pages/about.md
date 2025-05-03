@@ -13,7 +13,7 @@ Research Interests
 ======
 My research interests focuses on designing, developing and analyzing algorithms for solving nonsmooth optimization, nonconvex optimization, and stochastic optimization, with a strong focus on nonconvex games. In my research, I frequently use the following monographs:
 
-1. [Convex Analysis and Nonlinear Optimization](https://link.springer.com/chapter/10.1007/978-0-387-31256-9_4) (Borwein and Lewis).
+1. [Convex Analysis and Nonlinear Optimization](https://link.springer.com/book/10.1007/978-0-387-31256-9) (Borwein and Lewis).
 2. [First-order Methods in Optimization](https://epubs.siam.org/doi/book/10.1137/1.9781611974997) (Beck).
 3. [Modern Nonconvex Nondifferentiable Optimization](https://epubs.siam.org/doi/book/10.1137/1.9781611976748) (Cui and Pang).
 4. [Lectures on Stochastic Programming: Modeling and Theory](https://epubs.siam.org/doi/book/10.1137/1.9781611976595) (Shapiro, Dentcheva, and Ruszczynski).
