@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Talks
+Mini-Symposium Talks
 ======
 
 ## (Invited) International Conference on Continuous Optimization (2025)
