@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Mini-Symposium Talks
+Journal Publications
 ======
 
 ## (Invited) International Conference on Continuous Optimization (2025)
@@ -24,7 +24,7 @@ Title: **Surrogation-Based Best-Response Schemes for Computation of Quasi-Nash E
 
 <br>
 
-Poster Presentations
+Conference and Workshop Publications
 ======
 
 ## The 7th Annual Learning for Dynamics & Control Conference (2025)
