@@ -7,11 +7,7 @@ author_profile: true
 
 Journal Publications
 ======
-
-## (Invited) International Conference on Continuous Optimization (2025)
-Los Angeles, United States  
-Title: **Stochastic Best-Response and Gradient-Response Schemes for Solving Nonconvex Games under Uncertainty**  
-(Invited by Prof. Gesualdo Scutari and Prof. Angelia Nedich)
+1. Optimality Conditions and Constraint Qualifications for Cardinality Constrained Optimization Problems
 
 <br>
 
@@ -26,3 +22,4 @@ Title: **Computing Stochastic Quasi-Nash Equilibria via Gradient-Response Scheme
 
 Preprints
 ======
+1. 
