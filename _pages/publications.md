@@ -11,7 +11,7 @@ Journal Publications
 
 <br>
 
-Conference and Workshop Publications
+Conference Publications
 ======
 1. **Zhuoyu Xiao** and Uday V. Shanbhag. *Computing Quasi-Nash Equilibria via Gradient-Response Schemes*. **The 7th Annual Learning for Dynamics & Control Conference**, 2025, forthcoming.
 
