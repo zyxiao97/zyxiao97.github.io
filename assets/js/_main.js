@@ -3,6 +3,7 @@
    ========================================================================== */
 
 $(document).ready(function () {
+   document.getElementById('theme-toggle').style.display = 'none';
   // detect OS/browser preference
   const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches
     ? 'dark'
