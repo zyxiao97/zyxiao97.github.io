@@ -35,6 +35,6 @@ Title: **Computing Stochastic Quasi-Nash Equilibria via Gradient-Response Scheme
 Evanston, United States  
 Title: **Computing Equilibria in Stochastic Nonconvex and Nonmonotone Games via Gradient-Response Schemes**
 
-## Cornell ORIE Young Researchers Workshop (2024)
+## (Invited) Cornell ORIE Young Researchers Workshop (2024)
 Ithaca, United States  
 Title: **Computing Equilibria in Stochastic Nonconvex and Nonmonotone Games via Gradient-Response Schemes**
