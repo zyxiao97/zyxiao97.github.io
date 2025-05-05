@@ -8,12 +8,12 @@ author_profile: true
 Mini-Symposium Talks
 ======
 
-## (\*Invited) International Conference on Continuous Optimization (2025)
+## (\*Invited\*) International Conference on Continuous Optimization (2025)
 Los Angeles, United States  
 Title: **Stochastic Best-Response and Gradient-Response Schemes for Solving Nonconvex Games under Uncertainty**  
 (Invited by Prof. Gesualdo Scutari and Prof. Angelia Nedich)
 
-## (\*Invited) International Symposium on Mathematical Programming (2024)
+## (\*Invited\*) International Symposium on Mathematical Programming (2024)
 Montreal, Canada  
 Title: **Computing Equilibria in Stochastic Nonconvex and Nonmonotone Games via Gradient-Response Schemes**  
 (Invited by Prof. Patrick Mehlitz)
@@ -35,6 +35,6 @@ Title: **Computing Stochastic Quasi-Nash Equilibria via Gradient-Response Scheme
 Evanston, United States  
 Title: **Computing Equilibria in Stochastic Nonconvex and Nonmonotone Games via Gradient-Response Schemes**
 
-## (\*Invited) Cornell ORIE Young Researchers Workshop (2024)
+## (\*Invited\*) Cornell ORIE Young Researchers Workshop (2024)
 Ithaca, United States  
 Title: **Computing Equilibria in Stochastic Nonconvex and Nonmonotone Games via Gradient-Response Schemes**
