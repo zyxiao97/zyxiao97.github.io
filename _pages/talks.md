@@ -10,7 +10,7 @@ Mini-Symposium Talks
 
 ## (\*Invited\*) International Conference on Continuous Optimization (2025)
 Los Angeles, United States  
-Title: **Stochastic Best-Response and Gradient-Response Schemes for Solving Nonconvex Games under Uncertainty**  
+Title: **Computing Equilibria in Stochastic Nonconvex and Nonmonotone Games via Gradient-Response Schemes**  
 (Invited by Prof. Gesualdo Scutari and Prof. Angelia Nedich)
 
 ## (\*Invited\*) International Symposium on Mathematical Programming (2024)
