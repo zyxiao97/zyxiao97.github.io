@@ -8,6 +8,10 @@ author_profile: true
 Mini-Symposium Talks
 ======
 
+## SIAM Mini-Symposium in Applied Mathematics (2025)
+Ann Arbor, United States  
+Title: **Surrogation-Based Best-Response Schemes for Computing Equilibria in Stochastic Nonconvex, Nonsmooth, and Hierarchical Games**
+
 ## (\*Invited\*) International Conference on Continuous Optimization (2025)
 Los Angeles, United States  
 Title: **Computing Equilibria in Stochastic Nonconvex and Nonmonotone Games via Gradient-Response Schemes**  
