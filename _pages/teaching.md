@@ -5,12 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Penn State
-======
-1. IE 405 Deterministic Models in Operations Research (2023 Fall)
-2. IE 466 Concurrent Engineering (2023 Spring)
-3. IE 322 Probabilistic Models in Industrial Engineering (2022 Fall)
-
 UVic
 ======
 1. MATH 122 Logic and Foundations + MATH 151 Finite Mathematics (2022 Spring)
