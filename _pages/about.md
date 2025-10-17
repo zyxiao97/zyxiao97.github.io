@@ -15,7 +15,7 @@ Research Interests
 My research interests focus on developing and analyzing algorithms for solving optimization, games, and equilibrium problems complicated by nonconvexity, nonmonotonicity, nonsmoothness, and stochasticity, arising in power systems and markets, network models, and machine learning. The techniques I use draw from a variety of fields including probability theory, modern optimization, variational analysis, and variational inequalities. In my research, I frequently use the following monographs:
 
 1. [First-Order Methods in Optimization](https://epubs.siam.org/doi/book/10.1137/1.9781611974997) (Beck).
-2. [Practical Nonconvex Nonsmooth Optimization](https://epubs.siam.org/doi/10.1137/1.9781611978599) (Curtis and Robinson)
+2. [Practical Nonconvex Nonsmooth Optimization](https://epubs.siam.org/doi/10.1137/1.9781611978599) (Curtis and Robinson).
 3. [Modern Nonconvex Nondifferentiable Optimization](https://epubs.siam.org/doi/book/10.1137/1.9781611976748) (Cui and Pang).
 4. [Lectures on Stochastic Programming: Modeling and Theory](https://epubs.siam.org/doi/book/10.1137/1.9781611976595) (Shapiro, Dentcheva, and Ruszczynski).
 5. [Finite-Dimensional Variational Inequalities and Complementarity Problems](https://link.springer.com/book/10.1007/b97543) (Facchinei and Pang).
