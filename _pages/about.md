@@ -11,7 +11,6 @@ I am Zhuoyu Xiao (肖卓宇), a Ph.D. student in Operations Research at [Univers
 
 Education
 ======
-
 - University of Michigan, Ph.D. in Operations Research, (Expected 2026)
 - University of Victoria, M.Phil. in Mathematics, 2022
 - Jinan University, B.S. (Honours) in Mathematics, 2020
