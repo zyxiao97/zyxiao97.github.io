@@ -13,7 +13,7 @@ Education
 ======
 - University of Michigan, Ph.D. in Operations Research, (Expected 2026)
 - University of Victoria, M.Phil. in Mathematics, 2022
-- Jinan University, B.S. (Honours) in Mathematics, 2020
+- Jinan University, B.S. in Mathematics (Elite Undergraduate Program), 2020 | Rank: 1/34
 
 Research Interests
 ======
