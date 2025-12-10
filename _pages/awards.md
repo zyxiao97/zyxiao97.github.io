@@ -14,3 +14,4 @@ Awards
 - Undergraduate Academic Excellence Award, JNU (2020)
 - Honor of Outstanding Graduate, JNU (2020)
 - National Scholarship, JNU (2019)
+- Undergraduate Student Awards, JNU (2017, 2018)
