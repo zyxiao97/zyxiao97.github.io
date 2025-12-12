@@ -8,6 +8,8 @@ author_profile: true
 Mini-Symposium Talks
 ======
 
+- SIAM Conference on Optimization, Edinburgh (2026)
+- The 20th Student Symposium for Interdisciplinary Statistical Sciences, Ann Arbor (2026)
 - (\*Invited\*) INFORMS Optimization Society Conference, Atlanta (2026)
 - INFORMS Annual Meeting, Atlanta (2025)
 - SIAM Mini-Symposium in Applied Mathematics, Ann Arbor (2025)
