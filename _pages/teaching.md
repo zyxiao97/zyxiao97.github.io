@@ -5,10 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Penn State
-======
-- IE 322: Deterministic Models in Operations Research (2023 Fall)
-
 UVic
 ======
 - MATH 122: Logic and Foundations + MATH 151 Finite Mathematics (2022 Spring)
