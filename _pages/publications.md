@@ -19,4 +19,4 @@ Conference Publications
 
 Preprints
 ======
-- **Zhuoyu Xiao** and Uday V. Shanbhag. *Computing Equilibria in Stochastic Nonconvex and Non-monotone Games via Gradient-Response Schemes*. **arXiv preprint arXiv:2504.14056**.
+- **Zhuoyu Xiao** and Uday V. Shanbhag. *Computing Equilibria in Stochastic Nonconvex and Non-monotone Games via Gradient-Response Schemes*. **arXiv:2504.14056**, 2025.
