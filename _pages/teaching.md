@@ -5,4 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Calculus, Matrix Algebra For Engineers, Probability Models, Continuous Optimization
+Math (Undergraduate Level)
+======
+
+Calculus, Matrix Algebra For Engineers, 
+
+OR (Undergraduate Level)
+======
+
+Probability Models, Continuous Optimization
