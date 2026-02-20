@@ -5,12 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Math (Undergraduate Level)
+Mathematics
 ======
 
 Calculus, Matrix Algebra For Engineers, Real Analysis
 
-Operations Research (Undergraduate Level)
+Operations Research
 ======
 
 Probability Models, Linear Optimization, Continuous Optimization
