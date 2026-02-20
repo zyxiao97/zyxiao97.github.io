@@ -10,7 +10,7 @@ Math (Undergraduate Level)
 
 Calculus, Matrix Algebra For Engineers, 
 
-OR (Undergraduate Level)
+Operations Research (Undergraduate Level)
 ======
 
 Probability Models, Continuous Optimization
