@@ -8,9 +8,9 @@ author_profile: true
 Math (Undergraduate Level)
 ======
 
-Calculus, Matrix Algebra For Engineers, 
+Calculus, Matrix Algebra For Engineers, Real Analysis
 
 Operations Research (Undergraduate Level)
 ======
 
-Probability Models, Continuous Optimization
+Probability Models, Linear Optimization, Continuous Optimization
