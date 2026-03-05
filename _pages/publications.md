@@ -27,4 +27,4 @@ Preprints
 
 Working Papers
 ======
-- **Zhuoyu Xiao**, Uday V. Shanbhag and Yue Xie. *Extragradient and Gradient Methods with Line Search for Solving Deterministic and Stochastic Variational Inequalities*. 2026.
+- **Zhuoyu Xiao**, Uday V. Shanbhag and Yue Xie. *Extragradient and gradient methods with line search for solving deterministic and stochastic variational inequalities*. 2026.
