@@ -14,7 +14,7 @@ Journal Publications
 Conference Publications
 ======
 - **Zhuoyu Xiao** and Uday V. Shanbhag. *Computing quasi-Nash equilibria via gradient-response schemes*. **The 7th Annual Learning for Dynamics & Control Conference**, (283) 2025, pp. 881-893.
-- **Zhuoyu Xiao** and Uday V. Shanbhag. *Extragradient methods with parameter-free line search for stochastic pseudomonotone variational inequalities*. To be submitted to **The 65th IEEE Conference on Decision and Control (CDC)**, 2026.
+- **Zhuoyu Xiao**, Uday V. Shanbhag and Yue Xie. *Extragradient methods with parameter-free line search for stochastic pseudomonotone variational inequalities*. To be submitted to **The 65th IEEE Conference on Decision and Control (CDC)**, 2026.
 
 <br>
 
