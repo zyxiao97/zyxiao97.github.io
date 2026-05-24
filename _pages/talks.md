@@ -22,3 +22,10 @@ Poster Presentations
 - The 7th Annual Learning for Dynamics & Control Conference, Ann Arbor (2025)
 - Midwest Optimization & Statistical Learning Conference, Evanston (2025)
 - **(\*Invited\*)** Cornell ORIE Young Researchers Workshop, Ithaca (2024)
+
+Workshops Attended
+======
+
+- Workshop on Optimization, Learning, and Control at Princeton ORFE. (June 2024)
+- Workshop on Modern Continuous Optimization at MIT Sloan: In honor of Robert M. Freund’s 70th birthday. (Aug 2023)
+- Workshop on Modern Nonsmooth Optimization at UWashington: In honor of Adrian Lewis’s 60th birthday. (Aug 2022)
