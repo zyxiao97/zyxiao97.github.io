@@ -23,6 +23,8 @@ Poster Presentations
 - Midwest Optimization & Statistical Learning Conference, Evanston (2025)
 - **(\*Invited\*)** Cornell ORIE Young Researchers Workshop, Ithaca (2024)
 
+<br>
+
 Workshops Attended
 ======
 
