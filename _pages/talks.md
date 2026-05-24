@@ -28,6 +28,6 @@ Poster Presentations
 Workshops Attended
 ======
 
-- Optimization, Learning, and Control at Princeton ORFE (June 2024)
+- Optimization, Learning, and Control at Princeton ORFE (Jun 2024)
 - Modern Continuous Optimization at MIT Sloan: In honor of Robert M. Freund’s 70th birthday (Aug 2023)
 - Modern Nonsmooth Optimization at UWashington Math: In honor of Adrian Lewis’s 60th birthday (Aug 2022)
