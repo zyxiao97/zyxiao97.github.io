@@ -8,6 +8,7 @@ author_profile: true
 Mini-Symposium Talks
 ======
 
+- FIM-IMS Joint Workshop on Mathematics of Data Science, Singapore (Nov 2026)
 - INFORMS Annual Meeting, Atlanta (Oct 2025)
 - SIAM Mini-Symposium in Applied Mathematics, Ann Arbor (Sep 2025)
 - **(\*Invited\*)** International Conference on Continuous Optimization, Los Angeles (Jul 2025)
