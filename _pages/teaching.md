@@ -8,7 +8,7 @@ author_profile: true
 Mathematics
 ======
 
-Calculus, Matrix Algebra For Engineers, Real Analysis
+Calculus, Matrix Algebra, Real Analysis
 
 Operations Research
 ======
