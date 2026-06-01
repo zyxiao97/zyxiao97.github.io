@@ -8,9 +8,13 @@ author_profile: true
 Mathematics
 ======
 
-Calculus, Matrix Algebra, Real Analysis
+- Calculus I and II
+- Matrix Algebra
+- Real Analysis
 
 Operations Research
 ======
 
-Probability Models, Linear Optimization, Continuous Optimization
+- Probability Models
+- Linear Optimization
+- Nonlinear Optimization
