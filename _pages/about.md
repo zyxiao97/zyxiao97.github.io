@@ -17,7 +17,7 @@ Education
 
 Research Interests
 ======
-My research interests focus on developing and analyzing algorithms for solving optimization, games, and equilibrium problems complicated by **nonconvexity, nonmonotonicity, nonsmoothness, and stochasticity**, arising in power systems and markets, network models, and statistical learning. The techniques I use draw from a variety of fields including probability theory, modern optimization, variational analysis, and variational inequalities. In my research, I frequently use the following monographs:
+My research interests focus on developing and analyzing algorithms for solving optimization, games, and equilibrium problems complicated by **nonconvexity, nonmonotonicity, nonsmoothness, and stochasticity**, arising in power systems and markets, network models, and statistical learning. The techniques I use draw from a variety of fields including probability theory, modern optimization, nonsmooth analysis, variational analysis, and variational inequalities. In my research, I frequently use the following monographs:
 
 - [First-Order Methods in Optimization](https://epubs.siam.org/doi/book/10.1137/1.9781611974997) (Beck).
 - [Modern Nonconvex Nondifferentiable Optimization](https://epubs.siam.org/doi/book/10.1137/1.9781611976748) (Cui and Pang).
