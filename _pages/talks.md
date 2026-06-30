@@ -30,5 +30,5 @@ Workshops Attended
 ======
 
 - Optimization, Learning, and Control at Princeton ORFE, Princeton, USA (Jun 2024)
-- Modern Continuous Optimization at MIT Sloan: In honor of Robert M. Freund’s 70th birthday, Cambridge, USA (Aug 2023)
-- Modern Nonsmooth Optimization at UWashington Math: In honor of Adrian Lewis’s 60th birthday, Seattle, USA (Aug 2022)
+- Modern Continuous Optimization Workshop: In honor of Robert M. Freund’s 70th birthday, Cambridge, USA (Aug 2023)
+- Modern Nonsmooth Optimization Workshop: In honor of Adrian Lewis’s 60th birthday, Seattle, USA (Aug 2022)
