@@ -8,15 +8,15 @@ author_profile: true
 Mathematics
 ======
 
-- Calculus I and II
-- Matrix Algebra
-- Real Analysis
+- (Undergraduate) Calculus I and II
+- (Undergraduate) Matrix Algebra
+- (Undergraduate) Real Analysis
 
 <br>
 
 Operations Research
 ======
 
-- Probability Models
-- Linear Optimization
-- Nonlinear Optimization
+- (Undergraduate) Probability Models
+- (Undergraduate) Linear Optimization
+- (Undergraduate) Nonlinear Optimization
