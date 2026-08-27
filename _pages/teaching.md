@@ -19,4 +19,4 @@ Operations Research
 
 - (UG) Probability Models
 - (UG) Linear Optimization
-- (UG) Nonlinear Optimization
+- (UG) Numerical Optimization
