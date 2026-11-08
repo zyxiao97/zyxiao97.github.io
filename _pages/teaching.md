@@ -12,4 +12,4 @@ As a teaching assistant for undergraduate mathematics and operations research co
 
 **Mathematics:** Calculus I and II, Matrix Algebra, and Real Analysis.
 
-**Operations Research:** Probability Models, Linear Optimization, and Numerical Optimization.
+**Operations Research:** Linear Optimization, Numerical Optimization, Probability Models.
