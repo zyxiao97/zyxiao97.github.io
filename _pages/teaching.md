@@ -5,18 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Mathematics
+Teaching Experience
 ======
 
-- (UG) Calculus I and II (TA)
-- (UG) Matrix Algebra (TA)
-- (UG) Real Analysis (TA)
+As a teaching assistant for undergraduate mathematics and operations research courses, I have led recitations, held office hours, graded coursework, and designed final projects.
 
-<br>
+**Mathematics:** Calculus I and II, Matrix Algebra, and Real Analysis.
 
-Operations Research
-======
-
-- (UG) Probability Models (TA)
-- (UG) Linear Optimization (TA)
-- (UG) Numerical Optimization (TA)
+**Operations Research:** Probability Models, Linear Optimization, and Numerical Optimization.
